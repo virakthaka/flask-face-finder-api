@@ -1,3 +1,3 @@
-# Face Recognition webservice based on Flash
+# Face Recognition webservice based on Flask
 
 Researching...
